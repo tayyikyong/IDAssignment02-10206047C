@@ -10,7 +10,7 @@ $(document).ready(() => {
 
   });
 });
-
+//To get the Search results that was typed in the search bar by user together with the api
 function getSearchResults(searchText){
   axios.get('https://www.omdbapi.com/?s='+ searchText + '&apikey=3d27d50e')
     .then((response) => {
@@ -37,6 +37,7 @@ function getSearchResults(searchText){
     });
 }
 
+//To filter results that matches what the user has typed into the search bar
 searchText.addEventListener('keyup', (e)=>{
   let mFilter = '';
   const searchString = e.target.value;
@@ -54,7 +55,7 @@ function movieSelected(id){
   window.location = 'movie.html';
   return false;
 }
-
+//To display the movie details of the specific movie that the user wishes to view
 function getMovie(){
   let movieId = sessionStorage.getItem('movieId');
 
