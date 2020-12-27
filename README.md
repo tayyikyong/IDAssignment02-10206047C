@@ -18,7 +18,7 @@ the recommended movie apis that has a plethora of information about the various 
 However, they needed a code to use their api and there was limited access of 1000 people daily. I got the code by requesting and there was still sufficient access for that day. Other than that, the api was user friendly and there was lots of movie details in it.
 I used a css bootstrap for my background of the website. [Link to css bootstrap](https://bootswatch.com/4/solar/bootstrap.min.css).
 
-#Links to Website/Wireframe
+###### Links to Website/Wireframe
 This is the [link](https://xd.adobe.com/view/b07eda5e-8b5b-4e64-ab9f-dd99c22ef700-e52d/) to my wireframe.
 This is the [link](https://tayyikyong.github.io/IDAssignment02-10206047C/) to my website.
 
