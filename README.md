@@ -6,7 +6,7 @@ Genre, Runtime, Rating, IMDB rating, plot, etc. The website has a login page for
 
 ### User Audience Intent and Purpose
 The movie info website that I created will be valuable to people who want to know which blockbusters are worth watching and the plot of the movies so that when users watch the movie,
-they will get a generic idea of what the movie is about. On top of that, they will be able to know the rating of the show and to know whether it is PG, PG13, etc. and whether the movie is suitable for family with children below a certain age.
+they will get a generic idea of what the movie is about. On top of that, they will be able to know the rating of the show and to know whether it is PG, PG13, etc. and whether the movie is suitable for family with young children.
 The website has filters to allow users to search easily with the keywords that the user has typed into the searchbar.
 
 
