@@ -16,7 +16,7 @@ to inspire me to create a movie information website and the layout of the websit
 the recommended movie apis that has a plethora of information about the various movies. After scrutinising every recommendation in that websote I found that the most suitable api was omdb api. Here's the [link](http://www.omdbapi.com/).
 However, they needed a code to use their api and there was limited access of 1000 people daily. I got the code by requesting and there was still sufficient access for that day. Other than that, the api was user friendly and there was lots of movie details in it.
 I used a css bootstrap for my background of the website. [Link to css bootstrap](https://bootswatch.com/4/solar/bootstrap.min.css).
-[Link to background image for login page] (https://cdn.mos.cms.futurecdn.net/vspbxJgbuARUmfvw9UQk34-1200-80.jpg).
+[Link to background image for login page](https://cdn.mos.cms.futurecdn.net/vspbxJgbuARUmfvw9UQk34-1200-80.jpg).
 
 ##### Technologies
 1. HTML
