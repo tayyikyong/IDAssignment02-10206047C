@@ -23,7 +23,7 @@ I used a css bootstrap for my background of the website. [Link to css bootstrap]
 2. CSS
    * The project uses CSS to make it responsive across different browsers and to create the login page. 
 3. Javascript
-   * The project uses Javascript to display search results when the user types in their search result. 
+   * The project uses Javascript to display relevant search results when the user types in the search bar. 
 4. JSON
    * The project uses JSON to send the data from the server to the website.
 5. JQuery
