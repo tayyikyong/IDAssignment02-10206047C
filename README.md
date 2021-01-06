@@ -16,8 +16,32 @@ to inspire me to create a movie information website and the layout of the websit
 the recommended movie apis that has a plethora of information about the various movies. After scrutinising every recommendation in that websote I found that the most suitable api was omdb api. Here's the [link](http://www.omdbapi.com/).
 However, they needed a code to use their api and there was limited access of 1000 people daily. I got the code by requesting and there was still sufficient access for that day. Other than that, the api was user friendly and there was lots of movie details in it.
 I used a css bootstrap for my background of the website. [Link to css bootstrap](https://bootswatch.com/4/solar/bootstrap.min.css).
+[Link to background image for login page] (https://cdn.mos.cms.futurecdn.net/vspbxJgbuARUmfvw9UQk34-1200-80.jpg).
+
+##### Technologies
+1. HTML
+2. CSS
+   * The project uses CSS to make it responsive across different browsers and to create the login page. 
+3. Javascript
+   * The project uses Javascript to display search results when the user types in their search result. 
+4. JSON
+   * The project uses JSON to send the data from the server to the website.
+5. JQuery
+   * The project uses JQuery to get the api.
+6. bootstrap
+   * The project uses bootstrap for the background of the website.
+7. Adobe XD
+   * Adobe XD was used to create the wireframe for my website.
+
+###### Testing
+Automated testing was done for the website such as the W3C MarkUp Validation, W3C CSS Validation and jshint linter and were all passed through.
+
+###### Deployment
+After making commits from visual studio code to GitHub, and checked that the code was regularly updated after I was done coding my website, I published my website via GitHub Pages. The difference between the development version of the website and the deployed version is that it does not have a login page and does not have filtered search results after the user has typed in into the search bar.
 
 ###### Links to Website/Wireframe
 This is the [link](https://xd.adobe.com/view/b07eda5e-8b5b-4e64-ab9f-dd99c22ef700-e52d/) to my wireframe.
 This is the [link](https://tayyikyong.github.io/IDAssignment02-10206047C/) to my website.
+
+
 
