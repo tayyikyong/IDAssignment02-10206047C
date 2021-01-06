@@ -42,7 +42,9 @@ After making commits from visual studio code to GitHub, and checked that the cod
 
 ###### Links to Website/Wireframe
 This is the [link](https://xd.adobe.com/view/b07eda5e-8b5b-4e64-ab9f-dd99c22ef700-e52d/) to my wireframe.
+This is the [link](https://github.com/tayyikyong/IDAssignment02-10206047C.git) to my repository.
 This is the [link](https://tayyikyong.github.io/IDAssignment02-10206047C/) to my website.
+
 
 
 
