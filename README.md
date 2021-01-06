@@ -27,7 +27,7 @@ I used a css bootstrap for my background of the website. [Link to css bootstrap]
 4. JSON
    * The project uses JSON to send the data from the server to the website.
 5. JQuery
-   * The project uses JQuery to get the api.
+   * The project uses JQuery to get the movie information api.
 6. bootstrap
    * The project uses bootstrap for the background of the website.
 7. Adobe XD
